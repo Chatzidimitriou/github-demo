@@ -1,7 +1,10 @@
 # github-demo
 Just some tests
 
-* Ena
- -- dio
- -- tria
-* lala
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese
